@@ -32,7 +32,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[InsureShield](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)** | AI-powered micro-insurance platform featuring real-time risk underwriting, automated claim evaluation, live countdown timers, and multi-currency exchange conversion. | JavaScript (ES6+), Vite, Gemini API, Open ER-API, LocalStorage |
+| **[InsureShield](https://github.com/LuthandoNgombane/InsureShield)** | AI-powered micro-insurance platform featuring real-time risk underwriting, automated claim evaluation, live countdown timers, and multi-currency exchange conversion. | JavaScript (ES6+), Vite, Gemini API, Open ER-API, LocalStorage |
 
 ---
 
