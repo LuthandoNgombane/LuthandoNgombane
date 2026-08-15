@@ -1,7 +1,7 @@
 # Hi there, I'm Luthando 👋
 
 ### 👨‍💻 About Me
-- 🔭 Intermediate Full-Stack Engineer building and scaling robust web, mobile, and cloud software architectures.
+- 🔭 Full-Stack Engineer building and scaling robust web, mobile, and cloud software architectures.
 - 🛠️ Core expertise in full-stack backend development, modern reactive frontends, RESTful API design, and containerized deployments.
 - 🎯 Focus: High-performance production systems, clean software design patterns, automated testing workflows, and practical AI integrations.
 
